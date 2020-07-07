@@ -1,6 +1,12 @@
 # first_flutter_app
 
 A new Flutter application.
+ 
+For complete article visit to https://www.flutterant.com/creating-first-flutter-application-in-android-studio/ 
+
+## Output
+<image src  ="https://github.com/satyamparasa15/first-fluter-app/blob/master/flutter_02.png" width="300" height="500"></image>
+
 
 ## Getting Started
 
